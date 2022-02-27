@@ -16,7 +16,7 @@
 - Continuously compiled and ran the code to ensure all the bugs were fixed and the program properly performed its objective. After refactoring the code, performing the dependency check helped to identify whether or not any new vulnerabilities were introduced in the application.
 
 6. What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
-- The OWASP dependency check
+- Although all the techniques were useful and helpful, the OWASP dependency check tool and creating the selfsigned SSL certificate were perhaps two of the most useful tools.
 
 7. Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 - 
