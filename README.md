@@ -10,7 +10,7 @@
 - Although it was challenging, it was helpful. Manually checking the code for vulnerabilities was more challenging than utilizing the dependency check tool to discover dependency's vulnerabilities.
 
 4. How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
-- 
+- Utilizing outdated versions of dependencies were caused most of the vulnerabilities which were addressed by updating to the latest version to ensure all the known bugs have been fixed. Different security testing of the code specifically penetration testing will help to optimally assess vulnerabilities and determine appropriate mitigation techniques in the future. 
 
 5. How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 - 
