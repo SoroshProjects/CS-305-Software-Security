@@ -13,7 +13,7 @@
 - Utilizing outdated versions of dependencies has caused most of the vulnerabilities which were addressed by updating to the latest version to ensure all the known bugs have been fixed. Different security testing of the code, specifically penetration testing will help to properly assess vulnerabilities and determine appropriate mitigation techniques in the future. 
 
 5. How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
-- 
+- Continuously compiled and ran the code to ensure all the bugs were fixed and the program properly performed its objective. After refactoring the code, performing the dependency check helped to identify whether or not any new vulnerabilities were introduced in the application.
 
 6. What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 - 
