@@ -19,4 +19,4 @@
 - Although all the techniques were useful and helpful, the OWASP dependency check tool and creating the selfsigned SSL certificate were perhaps two of the most useful tools.
 
 7. Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
-- 
+- The hash function and encrypted communications utilizations as well as OWASP dependency check tool usage and creating the selfsigned SSL certificate.  
